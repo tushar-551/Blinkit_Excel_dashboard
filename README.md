@@ -1,4 +1,3 @@
-Here's the complete README in markdown code format that you can copy and paste directly into GitHub:
 
 # Blinkit Sales Analytics Dashboard
 
